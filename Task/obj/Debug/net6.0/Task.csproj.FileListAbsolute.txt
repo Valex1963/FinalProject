@@ -1,0 +1,15 @@
+/Users/Valery/Desktop/FinalProject/FinalProject/Task/bin/Debug/net6.0/Task
+/Users/Valery/Desktop/FinalProject/FinalProject/Task/bin/Debug/net6.0/Task.deps.json
+/Users/Valery/Desktop/FinalProject/FinalProject/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/Valery/Desktop/FinalProject/FinalProject/Task/bin/Debug/net6.0/Task.dll
+/Users/Valery/Desktop/FinalProject/FinalProject/Task/bin/Debug/net6.0/Task.pdb
+/Users/Valery/Desktop/FinalProject/FinalProject/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/Valery/Desktop/FinalProject/FinalProject/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Valery/Desktop/FinalProject/FinalProject/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/Valery/Desktop/FinalProject/FinalProject/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/Valery/Desktop/FinalProject/FinalProject/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/Valery/Desktop/FinalProject/FinalProject/Task/obj/Debug/net6.0/Task.dll
+/Users/Valery/Desktop/FinalProject/FinalProject/Task/obj/Debug/net6.0/refint/Task.dll
+/Users/Valery/Desktop/FinalProject/FinalProject/Task/obj/Debug/net6.0/Task.pdb
+/Users/Valery/Desktop/FinalProject/FinalProject/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/Valery/Desktop/FinalProject/FinalProject/Task/obj/Debug/net6.0/ref/Task.dll
